@@ -1,0 +1,7 @@
+﻿<Application>
+	<Menus>
+		<action type="remove">
+      <Menu UniqueID="mnu_ImpWiz"></Menu>
+			</action>
+	</Menus>
+</Application>

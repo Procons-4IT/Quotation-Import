@@ -1,0 +1,9 @@
+<Application>
+  <Menus>
+    <action type="add">
+      <Menu Checked="0" Enabled="1" FatherUID="2304" Image="" Position="1" String="Quotation Import"
+       Type="1" UniqueID="mnu_ImpWiz">
+      </Menu>
+    </action>
+  </Menus>
+</Application>
